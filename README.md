@@ -1,4 +1,4 @@
-# earthling_virtual_avatar
+# Earthling Virtual Avatar(EVA)
 
 AGI
 
