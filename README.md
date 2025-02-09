@@ -1,6 +1,7 @@
 # Earthling Virtual Avatar(EVA)
 
-AGI
+AGI todo
+Cortical minicolumns - the main building block of the brain(if this code works we can build from that)
 
 # Magnum Opus:
 Constructing an artificial brain based on the structure of a real brain is a highly complex endeavor that spans multiple fields including neuroscience, computer science, and artificial intelligence. Here’s an approach to this challenge:
@@ -80,7 +81,7 @@ Producing a real brain, a true neural network
 
 The approach involves a comprehensive understanding of brain structure and function, collecting a wide array of data, building detailed models of neurons and synapses, and constructing neural networks that mimic the connectivity and dynamics of the brain. The artificial brain is then trained using relevant machine learning techniques and validated against real brain data. This multidisciplinary effort would require collaboration across neuroscience, computer science, and related fields.
 
-The first step: Steering - See Roombas
+### The first step: Steering - See Roombas
 Valence - good and bad - turning - modulate valence based on state
 Affect: Arousal - valence: side 60
 Classification of input into differrent emetions - physicsl output
@@ -88,7 +89,7 @@ Classification of input into differrent emetions - physicsl output
 Basic Vertebrate brain:
 Cortex, basal ganglia, Thalamus, hypothalamus, midbrain, hindbrain
 
-Reinforcement learning: trial and error
+### Second step: Reinforcement learning - trial and error
 Temporal difference learning: learning on the go - critic and actor
 
 Basal ganglia: learns to repeat and maximize dopamine releasing actions - the actor
@@ -142,7 +143,7 @@ Layer 5: Project to the basal ganglia, the thalamus and motor area
 Layer 4: input from the thalamus
 Layer 1: Input from the thalamus
 
-Perception:
+### Perception:
 Filling in, one at a time, cant unsee
 Generative models - predicting without an answer using genrating and recognition
 
@@ -204,7 +205,7 @@ So it creates it own reward function which is usually hard coded
 
 Predicting needs of future self is likely predicting needs of others - theory of mind
 
-Mentalizing:
+### Mentalizing:
 Theory of mind, imitation learning and anticipating
 This is a second order generative model
 
